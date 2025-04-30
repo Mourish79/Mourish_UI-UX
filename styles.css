@@ -1172,47 +1172,6 @@ h1 {
   z-index: 2;
 }
 
-/* Tablet view (768px and below) */
-/* Mobile view (480px and below) */
-/* Tablets and small laptops */
-@media (max-width: 1024px) {
-  .dot {
-    margin-left: -270px;
-    width: 19px;
-    height: 19px;
-  }
-
-  .timeline {
-    width: 11px;
-  }
-}
-
-/* Tablets and large phones */
-@media (max-width: 768px) {
-  .dot {
-    margin-left: -350px;
-    width: 20px;
-    height: 20px;
-  }
-
-  .timeline {
-    width: 10px;
-  }
-}
-
-/* Mobile phones */
-@media (max-width: 480px) {
-  .dot {
-    margin-left: -330px; /* Adjust to your layout */
-    width: 20px;
-    height: 20px;
-  }
-
-  .timeline {
-    width: 8px;
-  }
-}
-
 /* How Work Section */
 .container11 {
   max-width: 1100px;
